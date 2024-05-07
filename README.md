@@ -1,4 +1,4 @@
-#Wordle By Ali
+# Wordle By Ali
 
 I will be attempting to create my version of wordle using Maven and depending on a JSon file for an english dictonary .
 
